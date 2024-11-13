@@ -30,5 +30,5 @@
 **Contact**
 
 
-[![instagran](https://img.shields.io/badge/Instagram-%23E4405F?style=flat-square&logo=instagram&logoColor=white)]((https://www.instagram.com/pelma_s0/))
+[![instagran](https://img.shields.io/badge/Instagram-%23E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/pelma_s0/)
 [![mail](https://img.shields.io/badge/Gmail-%23EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:pedroponcemascaro@hotmail.com).
