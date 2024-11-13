@@ -8,7 +8,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23EAB300?style=flat-square&logo=JAVASCRIPT&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-%231D9FD7?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-%23F80000?style=flat-square&logo=oracle&logoColor=white)
-![C++](https://img.shields.io/badge/-%2300599C?style=flat-square&logo=c%2B%2B).
+![C++](https://img.shields.io/badge/C%23-%2300599C?style=flat-square&logo=c%2B%2B).
 
 **Tools**
 
