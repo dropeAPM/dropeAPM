@@ -23,7 +23,7 @@
 **Other Tools**
 
 ![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-%2331A8FF?style=flat-square&logo=adobephotoshop&logoColor=white)
-![Premier](https://img.shields.io/badge/Adobe%20Premier-%239999FF?style=flat-square&logo=adobepremierepro&logoColor=white)
+
 
 
 
